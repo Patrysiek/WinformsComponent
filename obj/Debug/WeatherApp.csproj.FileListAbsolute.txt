@@ -1,0 +1,7 @@
+C:\Users\Patryk\source\repos\WeatherApp\bin\Debug\WeatherApp.dll
+C:\Users\Patryk\source\repos\WeatherApp\bin\Debug\WeatherApp.pdb
+C:\Users\Patryk\source\repos\WeatherApp\obj\Debug\WeatherApp.csprojAssemblyReference.cache
+C:\Users\Patryk\source\repos\WeatherApp\obj\Debug\WeatherApp.WeaterApp.resources
+C:\Users\Patryk\source\repos\WeatherApp\obj\Debug\WeatherApp.csproj.GenerateResource.cache
+C:\Users\Patryk\source\repos\WeatherApp\obj\Debug\WeatherApp.dll
+C:\Users\Patryk\source\repos\WeatherApp\obj\Debug\WeatherApp.pdb
